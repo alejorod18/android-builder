@@ -1,4 +1,4 @@
-from bitbucketpipelines/android-ci-image
+from java:8
 
 WORKDIR /opt
 ## Install android SDK
