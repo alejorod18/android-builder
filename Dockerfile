@@ -14,7 +14,6 @@ ENV ANDROID_HOME="/opt/android-sdk-linux"
 ENV PATH="$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools:$PATH"
 ENV PATH=/opt/android-sdk-linux/build-tools/29.0.3:$PATH
 
-
 WORKDIR /app
 
 
